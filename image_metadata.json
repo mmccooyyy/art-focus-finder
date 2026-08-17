@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 0,
+    "lod_id": "https://id.rijksmuseum.nl/200101044",
+    "url": "https://iiif.micr.io/bAdfs/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_000.jpg",
+    "width": 800,
+    "height": 797,
+    "size_bytes": 129096
+  },
+  {
+    "id": 1,
+    "lod_id": "https://id.rijksmuseum.nl/200101467",
+    "url": "https://iiif.micr.io/KRyoN/full/max/0/default.jpg",
+    "title": "Protest against racial discrimination outside a Woolworth store",
+    "filepath": "/home/user/work/focus_finder/images/rijks_001.jpg",
+    "width": 800,
+    "height": 796,
+    "size_bytes": 155969
+  },
+  {
+    "id": 2,
+    "lod_id": "https://id.rijksmuseum.nl/200107777",
+    "url": "https://iiif.micr.io/wfHCM/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_002.jpg",
+    "width": 800,
+    "height": 923,
+    "size_bytes": 103931
+  },
+  {
+    "id": 3,
+    "lod_id": "https://id.rijksmuseum.nl/200107888",
+    "url": "https://iiif.micr.io/yovsf/full/max/0/default.jpg",
+    "title": "Orpheus and the Animals",
+    "filepath": "/home/user/work/focus_finder/images/rijks_003.jpg",
+    "width": 800,
+    "height": 584,
+    "size_bytes": 83723
+  },
+  {
+    "id": 4,
+    "lod_id": "https://id.rijksmuseum.nl/200108005",
+    "url": "https://iiif.micr.io/ZSgbb/full/max/0/default.jpg",
+    "title": "Portrait of Joseph Deutz",
+    "filepath": "/home/user/work/focus_finder/images/rijks_004.jpg",
+    "width": 800,
+    "height": 1047,
+    "size_bytes": 85457
+  },
+  {
+    "id": 5,
+    "lod_id": "https://id.rijksmuseum.nl/200107873",
+    "url": "https://iiif.micr.io/yaEop/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_005.jpg",
+    "width": 800,
+    "height": 599,
+    "size_bytes": 79125
+  },
+  {
+    "id": 6,
+    "lod_id": "https://id.rijksmuseum.nl/200107757",
+    "url": "https://iiif.micr.io/cdqwm/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_006.jpg",
+    "width": 800,
+    "height": 927,
+    "size_bytes": 131475
+  },
+  {
+    "id": 7,
+    "lod_id": "https://id.rijksmuseum.nl/200107854",
+    "url": "https://iiif.micr.io/bAtnA/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_007.jpg",
+    "width": 800,
+    "height": 1012,
+    "size_bytes": 177297
+  },
+  {
+    "id": 8,
+    "lod_id": "https://id.rijksmuseum.nl/200107782",
+    "url": "https://iiif.micr.io/QJbNB/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_008.jpg",
+    "width": 800,
+    "height": 693,
+    "size_bytes": 123898
+  },
+  {
+    "id": 9,
+    "lod_id": "https://id.rijksmuseum.nl/200101730",
+    "url": "https://iiif.micr.io/gwmQd/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_009.jpg",
+    "width": 800,
+    "height": 793,
+    "size_bytes": 87982
+  },
+  {
+    "id": 10,
+    "lod_id": "https://id.rijksmuseum.nl/200101819",
+    "url": "https://iiif.micr.io/YKqjC/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_010.jpg",
+    "width": 800,
+    "height": 657,
+    "size_bytes": 126869
+  },
+  {
+    "id": 11,
+    "lod_id": "https://id.rijksmuseum.nl/200107966",
+    "url": "https://iiif.micr.io/xgUtS/full/max/0/default.jpg",
+    "title": "Het oude stadhuis in Amsterdam",
+    "filepath": "/home/user/work/focus_finder/images/rijks_011.jpg",
+    "width": 800,
+    "height": 617,
+    "size_bytes": 92001
+  },
+  {
+    "id": 12,
+    "lod_id": "https://id.rijksmuseum.nl/200101817",
+    "url": "https://iiif.micr.io/LhdqT/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_012.jpg",
+    "width": 800,
+    "height": 697,
+    "size_bytes": 155269
+  },
+  {
+    "id": 13,
+    "lod_id": "https://id.rijksmuseum.nl/200100902",
+    "url": "https://iiif.micr.io/JmOoG/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_013.jpg",
+    "width": 800,
+    "height": 627,
+    "size_bytes": 96417
+  },
+  {
+    "id": 14,
+    "lod_id": "https://id.rijksmuseum.nl/200101812",
+    "url": "https://iiif.micr.io/JqHyZ/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_014.jpg",
+    "width": 800,
+    "height": 1119,
+    "size_bytes": 136024
+  },
+  {
+    "id": 15,
+    "lod_id": "https://id.rijksmuseum.nl/200107868",
+    "url": "https://iiif.micr.io/vvSrc/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_015.jpg",
+    "width": 800,
+    "height": 947,
+    "size_bytes": 131401
+  },
+  {
+    "id": 16,
+    "lod_id": "https://id.rijksmuseum.nl/200107767",
+    "url": "https://iiif.micr.io/HBBRZ/full/max/0/default.jpg",
+    "title": "Portraits of Sir Thomas Gresham and Anne Fernely",
+    "filepath": "/home/user/work/focus_finder/images/rijks_016.jpg",
+    "width": 800,
+    "height": 939,
+    "size_bytes": 87991
+  },
+  {
+    "id": 17,
+    "lod_id": "https://id.rijksmuseum.nl/200100982",
+    "url": "https://iiif.micr.io/JahSg/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_017.jpg",
+    "width": 800,
+    "height": 809,
+    "size_bytes": 117076
+  },
+  {
+    "id": 18,
+    "lod_id": "https://id.rijksmuseum.nl/200107784",
+    "url": "https://iiif.micr.io/kqTHb/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_018.jpg",
+    "width": 800,
+    "height": 986,
+    "size_bytes": 161545
+  },
+  {
+    "id": 19,
+    "lod_id": "https://id.rijksmuseum.nl/200107984",
+    "url": "https://iiif.micr.io/yyaLS/full/max/0/default.jpg",
+    "title": "De stervende Cleopatra",
+    "filepath": "/home/user/work/focus_finder/images/rijks_019.jpg",
+    "width": 800,
+    "height": 465,
+    "size_bytes": 73578
+  },
+  {
+    "id": 20,
+    "lod_id": "https://id.rijksmuseum.nl/200101717",
+    "url": "https://iiif.micr.io/GYLJN/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_020.jpg",
+    "width": 800,
+    "height": 778,
+    "size_bytes": 76553
+  },
+  {
+    "id": 21,
+    "lod_id": "https://id.rijksmuseum.nl/200107948",
+    "url": "https://iiif.micr.io/xQTZV/full/max/0/default.jpg",
+    "title": "Lake near Loosdrecht",
+    "filepath": "/home/user/work/focus_finder/images/rijks_021.jpg",
+    "width": 800,
+    "height": 516,
+    "size_bytes": 61516
+  },
+  {
+    "id": 22,
+    "lod_id": "https://id.rijksmuseum.nl/200100903",
+    "url": "https://iiif.micr.io/vSvPG/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_022.jpg",
+    "width": 800,
+    "height": 1324,
+    "size_bytes": 233720
+  },
+  {
+    "id": 23,
+    "lod_id": "https://id.rijksmuseum.nl/200101040",
+    "url": "https://iiif.micr.io/PNOpB/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_023.jpg",
+    "width": 800,
+    "height": 814,
+    "size_bytes": 114943
+  },
+  {
+    "id": 24,
+    "lod_id": "https://id.rijksmuseum.nl/200101719",
+    "url": "https://iiif.micr.io/VKdss/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_024.jpg",
+    "width": 800,
+    "height": 779,
+    "size_bytes": 54656
+  },
+  {
+    "id": 25,
+    "lod_id": "https://id.rijksmuseum.nl/200107850",
+    "url": "https://iiif.micr.io/mnyan/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_025.jpg",
+    "width": 800,
+    "height": 983,
+    "size_bytes": 127927
+  },
+  {
+    "id": 26,
+    "lod_id": "https://id.rijksmuseum.nl/200107937",
+    "url": "https://iiif.micr.io/OzDjp/full/max/0/default.jpg",
+    "title": "Rembrandts zoon Titus in monniksdracht",
+    "filepath": "/home/user/work/focus_finder/images/rijks_026.jpg",
+    "width": 800,
+    "height": 946,
+    "size_bytes": 78292
+  },
+  {
+    "id": 27,
+    "lod_id": "https://id.rijksmuseum.nl/200105887",
+    "url": "https://iiif.micr.io/YAxov/full/max/0/default.jpg",
+    "title": "Cat at Play",
+    "filepath": "/home/user/work/focus_finder/images/rijks_027.jpg",
+    "width": 800,
+    "height": 580,
+    "size_bytes": 82404
+  },
+  {
+    "id": 28,
+    "lod_id": "https://id.rijksmuseum.nl/200101734",
+    "url": "https://iiif.micr.io/FBtew/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_028.jpg",
+    "width": 800,
+    "height": 772,
+    "size_bytes": 114319
+  },
+  {
+    "id": 29,
+    "lod_id": "https://id.rijksmuseum.nl/200101804",
+    "url": "https://iiif.micr.io/qnyaz/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_029.jpg",
+    "width": 800,
+    "height": 888,
+    "size_bytes": 156081
+  },
+  {
+    "id": 30,
+    "lod_id": "https://id.rijksmuseum.nl/200105905",
+    "url": "https://iiif.micr.io/WTgck/full/max/0/default.jpg",
+    "title": "Portretten van Surinaamse meisjes",
+    "filepath": "/home/user/work/focus_finder/images/rijks_030.jpg",
+    "width": 800,
+    "height": 1214,
+    "size_bytes": 117438
+  },
+  {
+    "id": 31,
+    "lod_id": "https://id.rijksmuseum.nl/200107891",
+    "url": "https://iiif.micr.io/kPsrG/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_031.jpg",
+    "width": 800,
+    "height": 487,
+    "size_bytes": 76465
+  },
+  {
+    "id": 32,
+    "lod_id": "https://id.rijksmuseum.nl/200107779",
+    "url": "https://iiif.micr.io/NXvPP/full/max/0/default.jpg",
+    "title": "Portrait of Aernout van Beeftingh, his Wife Jacoba Maria Boon and their Children",
+    "filepath": "/home/user/work/focus_finder/images/rijks_032.jpg",
+    "width": 800,
+    "height": 1054,
+    "size_bytes": 123218
+  },
+  {
+    "id": 33,
+    "lod_id": "https://id.rijksmuseum.nl/200108003",
+    "url": "https://iiif.micr.io/eFySd/full/max/0/default.jpg",
+    "title": "De hongerigen spijzen",
+    "filepath": "/home/user/work/focus_finder/images/rijks_033.jpg",
+    "width": 800,
+    "height": 599,
+    "size_bytes": 60596
+  },
+  {
+    "id": 34,
+    "lod_id": "https://id.rijksmuseum.nl/200101743",
+    "url": "https://iiif.micr.io/ayGoQ/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_034.jpg",
+    "width": 800,
+    "height": 771,
+    "size_bytes": 80643
+  },
+  {
+    "id": 35,
+    "lod_id": "https://id.rijksmuseum.nl/200101116",
+    "url": "https://iiif.micr.io/pQHtv/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_035.jpg",
+    "width": 800,
+    "height": 799,
+    "size_bytes": 163465
+  },
+  {
+    "id": 36,
+    "lod_id": "https://id.rijksmuseum.nl/200107992",
+    "url": "https://iiif.micr.io/mDaro/full/max/0/default.jpg",
+    "title": "De luitspeler",
+    "filepath": "/home/user/work/focus_finder/images/rijks_036.jpg",
+    "width": 800,
+    "height": 1031,
+    "size_bytes": 122127
+  },
+  {
+    "id": 37,
+    "lod_id": "https://id.rijksmuseum.nl/200107883",
+    "url": "https://iiif.micr.io/UWhBb/full/max/0/default.jpg",
+    "title": "Braziliaans dorp",
+    "filepath": "/home/user/work/focus_finder/images/rijks_037.jpg",
+    "width": 800,
+    "height": 605,
+    "size_bytes": 86883
+  },
+  {
+    "id": 38,
+    "lod_id": "https://id.rijksmuseum.nl/200107874",
+    "url": "https://iiif.micr.io/GebpD/full/max/0/default.jpg",
+    "title": "The Battle of Waterloo",
+    "filepath": "/home/user/work/focus_finder/images/rijks_038.jpg",
+    "width": 800,
+    "height": 533,
+    "size_bytes": 84269
+  },
+  {
+    "id": 39,
+    "lod_id": "https://id.rijksmuseum.nl/200101745",
+    "url": "https://iiif.micr.io/yQSdQ/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_039.jpg",
+    "width": 800,
+    "height": 793,
+    "size_bytes": 145852
+  },
+  {
+    "id": 40,
+    "lod_id": "https://id.rijksmuseum.nl/200107798",
+    "url": "https://iiif.micr.io/MsOUQ/full/max/0/default.jpg",
+    "title": "VOC-vestigingen",
+    "filepath": "/home/user/work/focus_finder/images/rijks_040.jpg",
+    "width": 800,
+    "height": 558,
+    "size_bytes": 62359
+  },
+  {
+    "id": 41,
+    "lod_id": "https://id.rijksmuseum.nl/200101797",
+    "url": "https://iiif.micr.io/SWOWR/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_041.jpg",
+    "width": 800,
+    "height": 719,
+    "size_bytes": 95895
+  },
+  {
+    "id": 42,
+    "lod_id": "https://id.rijksmuseum.nl/200107865",
+    "url": "https://iiif.micr.io/Wzxon/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_042.jpg",
+    "width": 800,
+    "height": 1030,
+    "size_bytes": 175928
+  },
+  {
+    "id": 43,
+    "lod_id": "https://id.rijksmuseum.nl/200101781",
+    "url": "https://iiif.micr.io/CbpzB/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_043.jpg",
+    "width": 800,
+    "height": 925,
+    "size_bytes": 118176
+  },
+  {
+    "id": 44,
+    "lod_id": "https://id.rijksmuseum.nl/200101583",
+    "url": "https://iiif.micr.io/qSvLC/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_044.jpg",
+    "width": 800,
+    "height": 780,
+    "size_bytes": 96945
+  },
+  {
+    "id": 45,
+    "lod_id": "https://id.rijksmuseum.nl/200107837",
+    "url": "https://iiif.micr.io/OKhyZ/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_045.jpg",
+    "width": 800,
+    "height": 1034,
+    "size_bytes": 149358
+  },
+  {
+    "id": 46,
+    "lod_id": "https://id.rijksmuseum.nl/200101788",
+    "url": "https://iiif.micr.io/LZVMD/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_046.jpg",
+    "width": 800,
+    "height": 1212,
+    "size_bytes": 107524
+  },
+  {
+    "id": 47,
+    "lod_id": "https://id.rijksmuseum.nl/200107967",
+    "url": "https://iiif.micr.io/vkhWE/full/max/0/default.jpg",
+    "title": "Figures before a Village Inn",
+    "filepath": "/home/user/work/focus_finder/images/rijks_047.jpg",
+    "width": 800,
+    "height": 600,
+    "size_bytes": 75012
+  },
+  {
+    "id": 48,
+    "lod_id": "https://id.rijksmuseum.nl/200101789",
+    "url": "https://iiif.micr.io/QFvAN/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_048.jpg",
+    "width": 800,
+    "height": 756,
+    "size_bytes": 142311
+  },
+  {
+    "id": 49,
+    "lod_id": "https://id.rijksmuseum.nl/200100939",
+    "url": "https://iiif.micr.io/yXspT/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_049.jpg",
+    "width": 800,
+    "height": 832,
+    "size_bytes": 94799
+  },
+  {
+    "id": 50,
+    "lod_id": "https://id.rijksmuseum.nl/200105971",
+    "url": "https://iiif.micr.io/QVEGH/full/max/0/default.jpg",
+    "title": "Self-Portrait",
+    "filepath": "/home/user/work/focus_finder/images/rijks_050.jpg",
+    "width": 800,
+    "height": 960,
+    "size_bytes": 89408
+  },
+  {
+    "id": 51,
+    "lod_id": "https://id.rijksmuseum.nl/200107770",
+    "url": "https://iiif.micr.io/Vsdnv/full/max/0/default.jpg",
+    "title": "Een herderin",
+    "filepath": "/home/user/work/focus_finder/images/rijks_051.jpg",
+    "width": 800,
+    "height": 1005,
+    "size_bytes": 110519
+  },
+  {
+    "id": 52,
+    "lod_id": "https://id.rijksmuseum.nl/200107881",
+    "url": "https://iiif.micr.io/wZNSD/full/max/0/default.jpg",
+    "title": "Portret van een vrouw",
+    "filepath": "/home/user/work/focus_finder/images/rijks_052.jpg",
+    "width": 800,
+    "height": 1091,
+    "size_bytes": 124746
+  },
+  {
+    "id": 53,
+    "lod_id": "https://id.rijksmuseum.nl/200107816",
+    "url": "https://iiif.micr.io/QjyVP/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_053.jpg",
+    "width": 800,
+    "height": 1059,
+    "size_bytes": 144562
+  },
+  {
+    "id": 54,
+    "lod_id": "https://id.rijksmuseum.nl/200101205",
+    "url": "https://iiif.micr.io/LWVCr/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_054.jpg",
+    "width": 800,
+    "height": 825,
+    "size_bytes": 116762
+  },
+  {
+    "id": 55,
+    "lod_id": "https://id.rijksmuseum.nl/200107959",
+    "url": "https://iiif.micr.io/XWEFp/full/max/0/default.jpg",
+    "title": "The Windmill at Wijk bij Duurstede",
+    "filepath": "/home/user/work/focus_finder/images/rijks_055.jpg",
+    "width": 800,
+    "height": 678,
+    "size_bytes": 83700
+  },
+  {
+    "id": 56,
+    "lod_id": "https://id.rijksmuseum.nl/200107943",
+    "url": "https://iiif.micr.io/OgAJr/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_056.jpg",
+    "width": 800,
+    "height": 596,
+    "size_bytes": 37695
+  },
+  {
+    "id": 57,
+    "lod_id": "https://id.rijksmuseum.nl/200107870",
+    "url": "https://iiif.micr.io/rDWBY/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_057.jpg",
+    "width": 800,
+    "height": 1014,
+    "size_bytes": 137223
+  },
+  {
+    "id": 58,
+    "lod_id": "https://id.rijksmuseum.nl/200108002",
+    "url": "https://iiif.micr.io/pWxcX/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_058.jpg",
+    "width": 800,
+    "height": 1022,
+    "size_bytes": 137096
+  },
+  {
+    "id": 59,
+    "lod_id": "https://id.rijksmuseum.nl/200101120",
+    "url": "https://iiif.micr.io/hyUVJ/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_059.jpg",
+    "width": 800,
+    "height": 818,
+    "size_bytes": 96242
+  },
+  {
+    "id": 60,
+    "lod_id": "https://id.rijksmuseum.nl/200107796",
+    "url": "https://iiif.micr.io/fBoPg/full/max/0/default.jpg",
+    "title": "Portret van Lysbeth van Duvenvoirde",
+    "filepath": "/home/user/work/focus_finder/images/rijks_060.jpg",
+    "width": 800,
+    "height": 1291,
+    "size_bytes": 152678
+  },
+  {
+    "id": 61,
+    "lod_id": "https://id.rijksmuseum.nl/200101805",
+    "url": "https://iiif.micr.io/EeTtF/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_061.jpg",
+    "width": 800,
+    "height": 690,
+    "size_bytes": 135237
+  },
+  {
+    "id": 62,
+    "lod_id": "https://id.rijksmuseum.nl/200101082",
+    "url": "https://iiif.micr.io/KXypq/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_062.jpg",
+    "width": 800,
+    "height": 780,
+    "size_bytes": 125601
+  },
+  {
+    "id": 63,
+    "lod_id": "https://id.rijksmuseum.nl/200101585",
+    "url": "https://iiif.micr.io/cYrBX/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_063.jpg",
+    "width": 800,
+    "height": 780,
+    "size_bytes": 121304
+  },
+  {
+    "id": 64,
+    "lod_id": "https://id.rijksmuseum.nl/200107936",
+    "url": "https://iiif.micr.io/pNusU/full/max/0/default.jpg",
+    "title": "Portrait of Haesje Jacobsdr van Cleyburg",
+    "filepath": "/home/user/work/focus_finder/images/rijks_064.jpg",
+    "width": 800,
+    "height": 1046,
+    "size_bytes": 78813
+  },
+  {
+    "id": 65,
+    "lod_id": "https://id.rijksmuseum.nl/200101776",
+    "url": "https://iiif.micr.io/PQKhD/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_065.jpg",
+    "width": 800,
+    "height": 714,
+    "size_bytes": 121946
+  },
+  {
+    "id": 66,
+    "lod_id": "https://id.rijksmuseum.nl/200107827",
+    "url": "https://iiif.micr.io/wkUPM/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_066.jpg",
+    "width": 800,
+    "height": 595,
+    "size_bytes": 67286
+  },
+  {
+    "id": 67,
+    "lod_id": "https://id.rijksmuseum.nl/200101220",
+    "url": "https://iiif.micr.io/EPwBS/full/max/0/default.jpg",
+    "title": "Protest against racial discrimination outside a Woolworth store",
+    "filepath": "/home/user/work/focus_finder/images/rijks_067.jpg",
+    "width": 800,
+    "height": 780,
+    "size_bytes": 143924
+  },
+  {
+    "id": 68,
+    "lod_id": "https://id.rijksmuseum.nl/200106078",
+    "url": "https://iiif.micr.io/vHCad/full/max/0/default.jpg",
+    "title": "Het Raampoortje in Amsterdam",
+    "filepath": "/home/user/work/focus_finder/images/rijks_068.jpg",
+    "width": 800,
+    "height": 941,
+    "size_bytes": 118084
+  },
+  {
+    "id": 69,
+    "lod_id": "https://id.rijksmuseum.nl/200100907",
+    "url": "https://iiif.micr.io/WaBzW/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_069.jpg",
+    "width": 800,
+    "height": 624,
+    "size_bytes": 92602
+  },
+  {
+    "id": 70,
+    "lod_id": "https://id.rijksmuseum.nl/200100975",
+    "url": "https://iiif.micr.io/gNBrg/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_070.jpg",
+    "width": 800,
+    "height": 760,
+    "size_bytes": 178078
+  },
+  {
+    "id": 71,
+    "lod_id": "https://id.rijksmuseum.nl/200101790",
+    "url": "https://iiif.micr.io/gHMJj/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_071.jpg",
+    "width": 800,
+    "height": 889,
+    "size_bytes": 108148
+  },
+  {
+    "id": 72,
+    "lod_id": "https://id.rijksmuseum.nl/200101791",
+    "url": "https://iiif.micr.io/VSeGz/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_072.jpg",
+    "width": 800,
+    "height": 704,
+    "size_bytes": 120393
+  },
+  {
+    "id": 73,
+    "lod_id": "https://id.rijksmuseum.nl/200101079",
+    "url": "https://iiif.micr.io/uhRxA/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_073.jpg",
+    "width": 800,
+    "height": 786,
+    "size_bytes": 100896
+  },
+  {
+    "id": 74,
+    "lod_id": "https://id.rijksmuseum.nl/200107935",
+    "url": "https://iiif.micr.io/hdvov/full/max/0/default.jpg",
+    "title": "Musicerend gezelschap",
+    "filepath": "/home/user/work/focus_finder/images/rijks_074.jpg",
+    "width": 800,
+    "height": 1066,
+    "size_bytes": 191518
+  },
+  {
+    "id": 75,
+    "lod_id": "https://id.rijksmuseum.nl/200107792",
+    "url": "https://iiif.micr.io/OfGsE/full/max/0/default.jpg",
+    "title": "Berglandschap bij D\u00fcsseldorf",
+    "filepath": "/home/user/work/focus_finder/images/rijks_075.jpg",
+    "width": 800,
+    "height": 555,
+    "size_bytes": 98102
+  },
+  {
+    "id": 76,
+    "lod_id": "https://id.rijksmuseum.nl/200107938",
+    "url": "https://iiif.micr.io/pVyUn/full/max/0/default.jpg",
+    "title": "Kopie naar De Nachtwacht",
+    "filepath": "/home/user/work/focus_finder/images/rijks_076.jpg",
+    "width": 800,
+    "height": 627,
+    "size_bytes": 76029
+  },
+  {
+    "id": 77,
+    "lod_id": "https://id.rijksmuseum.nl/200101796",
+    "url": "https://iiif.micr.io/PjUQZ/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_077.jpg",
+    "width": 800,
+    "height": 721,
+    "size_bytes": 87916
+  },
+  {
+    "id": 78,
+    "lod_id": "https://id.rijksmuseum.nl/200107964",
+    "url": "https://iiif.micr.io/oYVBj/full/max/0/default.jpg",
+    "title": "The Nave and Choir of the Mariakerk in Utrecht",
+    "filepath": "/home/user/work/focus_finder/images/rijks_078.jpg",
+    "width": 800,
+    "height": 1006,
+    "size_bytes": 141299
+  },
+  {
+    "id": 79,
+    "lod_id": "https://id.rijksmuseum.nl/200107864",
+    "url": "https://iiif.micr.io/rVtsv/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_079.jpg",
+    "width": 800,
+    "height": 944,
+    "size_bytes": 135543
+  },
+  {
+    "id": 80,
+    "lod_id": "https://id.rijksmuseum.nl/200107955",
+    "url": "https://iiif.micr.io/ByXXO/full/max/0/default.jpg",
+    "title": "De aanbidding van het Christuskind",
+    "filepath": "/home/user/work/focus_finder/images/rijks_080.jpg",
+    "width": 800,
+    "height": 781,
+    "size_bytes": 121483
+  },
+  {
+    "id": 81,
+    "lod_id": "https://id.rijksmuseum.nl/200107952",
+    "url": "https://iiif.micr.io/wqcDn/full/max/0/default.jpg",
+    "title": "Zelfportret als de apostel Paulus",
+    "filepath": "/home/user/work/focus_finder/images/rijks_081.jpg",
+    "width": 800,
+    "height": 946,
+    "size_bytes": 76194
+  },
+  {
+    "id": 82,
+    "lod_id": "https://id.rijksmuseum.nl/200101786",
+    "url": "https://iiif.micr.io/mWgHw/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_082.jpg",
+    "width": 800,
+    "height": 905,
+    "size_bytes": 155248
+  },
+  {
+    "id": 83,
+    "lod_id": "https://id.rijksmuseum.nl/200101007",
+    "url": "https://iiif.micr.io/BQbFf/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_083.jpg",
+    "width": 800,
+    "height": 795,
+    "size_bytes": 105811
+  },
+  {
+    "id": 84,
+    "lod_id": "https://id.rijksmuseum.nl/200107965",
+    "url": "https://iiif.micr.io/fjTNG/full/max/0/default.jpg",
+    "title": "Interieur van de Sint-Odulphuskerk in Assendelft",
+    "filepath": "/home/user/work/focus_finder/images/rijks_084.jpg",
+    "width": 800,
+    "height": 521,
+    "size_bytes": 60060
+  },
+  {
+    "id": 85,
+    "lod_id": "https://id.rijksmuseum.nl/200101787",
+    "url": "https://iiif.micr.io/CsWUN/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_085.jpg",
+    "width": 800,
+    "height": 553,
+    "size_bytes": 65654
+  },
+  {
+    "id": 86,
+    "lod_id": "https://id.rijksmuseum.nl/200107988",
+    "url": "https://iiif.micr.io/PHqQR/full/max/0/default.jpg",
+    "title": "River Valley",
+    "filepath": "/home/user/work/focus_finder/images/rijks_086.jpg",
+    "width": 800,
+    "height": 445,
+    "size_bytes": 62222
+  },
+  {
+    "id": 87,
+    "lod_id": "https://id.rijksmuseum.nl/200100942",
+    "url": "https://iiif.micr.io/LrZef/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_087.jpg",
+    "width": 800,
+    "height": 866,
+    "size_bytes": 193178
+  },
+  {
+    "id": 88,
+    "lod_id": "https://id.rijksmuseum.nl/200107828",
+    "url": "https://iiif.micr.io/QtDLU/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_088.jpg",
+    "width": 800,
+    "height": 923,
+    "size_bytes": 93745
+  },
+  {
+    "id": 89,
+    "lod_id": "https://id.rijksmuseum.nl/200101809",
+    "url": "https://iiif.micr.io/rVUUa/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_089.jpg",
+    "width": 800,
+    "height": 933,
+    "size_bytes": 133245
+  },
+  {
+    "id": 90,
+    "lod_id": "https://id.rijksmuseum.nl/200107776",
+    "url": "https://iiif.micr.io/fVXPc/full/max/0/default.jpg",
+    "title": "Thomas Hees en zijn bediende Thomas en neven Jan en Andries Hees",
+    "filepath": "/home/user/work/focus_finder/images/rijks_090.jpg",
+    "width": 800,
+    "height": 881,
+    "size_bytes": 107826
+  },
+  {
+    "id": 91,
+    "lod_id": "https://id.rijksmuseum.nl/200107856",
+    "url": "https://iiif.micr.io/TtHDW/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_091.jpg",
+    "width": 800,
+    "height": 935,
+    "size_bytes": 113335
+  },
+  {
+    "id": 92,
+    "lod_id": "https://id.rijksmuseum.nl/200101821",
+    "url": "https://iiif.micr.io/RZgKx/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_092.jpg",
+    "width": 800,
+    "height": 660,
+    "size_bytes": 72569
+  },
+  {
+    "id": 93,
+    "lod_id": "https://id.rijksmuseum.nl/200107942",
+    "url": "https://iiif.micr.io/FeurF/full/max/0/default.jpg",
+    "title": "Portrait of a Woman, Probably Maria Trip (1619-1683)",
+    "filepath": "/home/user/work/focus_finder/images/rijks_093.jpg",
+    "width": 800,
+    "height": 1046,
+    "size_bytes": 84513
+  },
+  {
+    "id": 94,
+    "lod_id": "https://id.rijksmuseum.nl/200101582",
+    "url": "https://iiif.micr.io/cQPuG/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_094.jpg",
+    "width": 800,
+    "height": 780,
+    "size_bytes": 106843
+  },
+  {
+    "id": 95,
+    "lod_id": "https://id.rijksmuseum.nl/200100940",
+    "url": "https://iiif.micr.io/uzuRJ/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_095.jpg",
+    "width": 800,
+    "height": 627,
+    "size_bytes": 79492
+  },
+  {
+    "id": 96,
+    "lod_id": "https://id.rijksmuseum.nl/200107810",
+    "url": "https://iiif.micr.io/DeWrv/full/max/0/default.jpg",
+    "title": "Schipbreuk op een rotsachtige kust",
+    "filepath": "/home/user/work/focus_finder/images/rijks_096.jpg",
+    "width": 800,
+    "height": 592,
+    "size_bytes": 60265
+  },
+  {
+    "id": 97,
+    "lod_id": "https://id.rijksmuseum.nl/200107861",
+    "url": "https://iiif.micr.io/qIxZA/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_097.jpg",
+    "width": 800,
+    "height": 944,
+    "size_bytes": 126662
+  },
+  {
+    "id": 98,
+    "lod_id": "https://id.rijksmuseum.nl/200107849",
+    "url": "https://iiif.micr.io/WyNEI/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_098.jpg",
+    "width": 800,
+    "height": 981,
+    "size_bytes": 131398
+  },
+  {
+    "id": 99,
+    "lod_id": "https://id.rijksmuseum.nl/200100960",
+    "url": "https://iiif.micr.io/SjmDd/full/max/0/default.jpg",
+    "title": null,
+    "filepath": "/home/user/work/focus_finder/images/rijks_099.jpg",
+    "width": 800,
+    "height": 792,
+    "size_bytes": 117429
+  }
+]

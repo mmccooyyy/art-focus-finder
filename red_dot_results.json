@@ -1,0 +1,802 @@
+[
+  {
+    "image": "rijks_000.jpg",
+    "x_pct": 68.0,
+    "y_pct": 47.2,
+    "method": "face_haar",
+    "px": 544,
+    "py": 376
+  },
+  {
+    "image": "rijks_001.jpg",
+    "x_pct": 26.0,
+    "y_pct": 48.7,
+    "method": "face_haar",
+    "px": 208,
+    "py": 388
+  },
+  {
+    "image": "rijks_002.jpg",
+    "x_pct": 40.6,
+    "y_pct": 36.2,
+    "method": "face_haar",
+    "px": 325,
+    "py": 334
+  },
+  {
+    "image": "rijks_003.jpg",
+    "x_pct": 49.0,
+    "y_pct": 43.8,
+    "method": "saliency",
+    "px": 392,
+    "py": 256
+  },
+  {
+    "image": "rijks_004.jpg",
+    "x_pct": 36.2,
+    "y_pct": 65.2,
+    "method": "face_haar",
+    "px": 290,
+    "py": 683
+  },
+  {
+    "image": "rijks_005.jpg",
+    "x_pct": 69.5,
+    "y_pct": 83.1,
+    "method": "saliency",
+    "px": 556,
+    "py": 498
+  },
+  {
+    "image": "rijks_006.jpg",
+    "x_pct": 52.6,
+    "y_pct": 54.7,
+    "method": "face_haar",
+    "px": 421,
+    "py": 507
+  },
+  {
+    "image": "rijks_007.jpg",
+    "x_pct": 51.1,
+    "y_pct": 32.2,
+    "method": "face_haar",
+    "px": 409,
+    "py": 326
+  },
+  {
+    "image": "rijks_008.jpg",
+    "x_pct": 51.0,
+    "y_pct": 80.5,
+    "method": "skin_color",
+    "px": 408,
+    "py": 558
+  },
+  {
+    "image": "rijks_009.jpg",
+    "x_pct": 44.2,
+    "y_pct": 18.7,
+    "method": "skin_color",
+    "px": 354,
+    "py": 148
+  },
+  {
+    "image": "rijks_010.jpg",
+    "x_pct": 41.2,
+    "y_pct": 56.9,
+    "method": "saliency",
+    "px": 330,
+    "py": 374
+  },
+  {
+    "image": "rijks_011.jpg",
+    "x_pct": 33.0,
+    "y_pct": 76.2,
+    "method": "saliency",
+    "px": 264,
+    "py": 470
+  },
+  {
+    "image": "rijks_012.jpg",
+    "x_pct": 50.5,
+    "y_pct": 40.5,
+    "method": "skin_color",
+    "px": 404,
+    "py": 282
+  },
+  {
+    "image": "rijks_013.jpg",
+    "x_pct": 45.0,
+    "y_pct": 45.9,
+    "method": "upperbody",
+    "px": 360,
+    "py": 287
+  },
+  {
+    "image": "rijks_014.jpg",
+    "x_pct": 46.5,
+    "y_pct": 66.2,
+    "method": "face_haar",
+    "px": 372,
+    "py": 740
+  },
+  {
+    "image": "rijks_015.jpg",
+    "x_pct": 45.5,
+    "y_pct": 41.7,
+    "method": "face_haar",
+    "px": 364,
+    "py": 395
+  },
+  {
+    "image": "rijks_016.jpg",
+    "x_pct": 51.6,
+    "y_pct": 60.0,
+    "method": "face_haar",
+    "px": 413,
+    "py": 563
+  },
+  {
+    "image": "rijks_017.jpg",
+    "x_pct": 45.8,
+    "y_pct": 31.1,
+    "method": "face_haar",
+    "px": 366,
+    "py": 252
+  },
+  {
+    "image": "rijks_018.jpg",
+    "x_pct": 44.0,
+    "y_pct": 28.0,
+    "method": "face_haar",
+    "px": 352,
+    "py": 276
+  },
+  {
+    "image": "rijks_019.jpg",
+    "x_pct": 39.2,
+    "y_pct": 70.1,
+    "method": "skin_color",
+    "px": 314,
+    "py": 326
+  },
+  {
+    "image": "rijks_020.jpg",
+    "x_pct": 72.5,
+    "y_pct": 35.5,
+    "method": "face_haar",
+    "px": 580,
+    "py": 276
+  },
+  {
+    "image": "rijks_021.jpg",
+    "x_pct": 66.8,
+    "y_pct": 51.9,
+    "method": "skin_color",
+    "px": 534,
+    "py": 268
+  },
+  {
+    "image": "rijks_022.jpg",
+    "x_pct": 43.0,
+    "y_pct": 32.9,
+    "method": "face_haar",
+    "px": 344,
+    "py": 435
+  },
+  {
+    "image": "rijks_023.jpg",
+    "x_pct": 62.0,
+    "y_pct": 55.7,
+    "method": "face_haar",
+    "px": 496,
+    "py": 453
+  },
+  {
+    "image": "rijks_024.jpg",
+    "x_pct": 20.5,
+    "y_pct": 41.3,
+    "method": "skin_color",
+    "px": 164,
+    "py": 322
+  },
+  {
+    "image": "rijks_025.jpg",
+    "x_pct": 53.4,
+    "y_pct": 49.7,
+    "method": "face_haar",
+    "px": 426,
+    "py": 489
+  },
+  {
+    "image": "rijks_026.jpg",
+    "x_pct": 45.5,
+    "y_pct": 39.4,
+    "method": "face_haar",
+    "px": 364,
+    "py": 372
+  },
+  {
+    "image": "rijks_027.jpg",
+    "x_pct": 59.5,
+    "y_pct": 57.9,
+    "method": "face_haar",
+    "px": 476,
+    "py": 336
+  },
+  {
+    "image": "rijks_028.jpg",
+    "x_pct": 51.7,
+    "y_pct": 31.1,
+    "method": "skin_color",
+    "px": 413,
+    "py": 240
+  },
+  {
+    "image": "rijks_029.jpg",
+    "x_pct": 39.6,
+    "y_pct": 36.1,
+    "method": "skin_color",
+    "px": 317,
+    "py": 321
+  },
+  {
+    "image": "rijks_030.jpg",
+    "x_pct": 52.6,
+    "y_pct": 48.4,
+    "method": "face_haar",
+    "px": 421,
+    "py": 588
+  },
+  {
+    "image": "rijks_031.jpg",
+    "x_pct": 44.0,
+    "y_pct": 43.1,
+    "method": "saliency",
+    "px": 352,
+    "py": 210
+  },
+  {
+    "image": "rijks_032.jpg",
+    "x_pct": 49.4,
+    "y_pct": 65.9,
+    "method": "skin_color",
+    "px": 395,
+    "py": 695
+  },
+  {
+    "image": "rijks_033.jpg",
+    "x_pct": 65.0,
+    "y_pct": 24.0,
+    "method": "skin_color",
+    "px": 520,
+    "py": 144
+  },
+  {
+    "image": "rijks_034.jpg",
+    "x_pct": 50.2,
+    "y_pct": 50.8,
+    "method": "skin_color",
+    "px": 401,
+    "py": 392
+  },
+  {
+    "image": "rijks_035.jpg",
+    "x_pct": 71.8,
+    "y_pct": 64.3,
+    "method": "upperbody",
+    "px": 574,
+    "py": 514
+  },
+  {
+    "image": "rijks_036.jpg",
+    "x_pct": 70.9,
+    "y_pct": 54.7,
+    "method": "saliency",
+    "px": 567,
+    "py": 564
+  },
+  {
+    "image": "rijks_037.jpg",
+    "x_pct": 24.2,
+    "y_pct": 60.5,
+    "method": "saliency",
+    "px": 194,
+    "py": 366
+  },
+  {
+    "image": "rijks_038.jpg",
+    "x_pct": 54.2,
+    "y_pct": 57.4,
+    "method": "saliency",
+    "px": 434,
+    "py": 306
+  },
+  {
+    "image": "rijks_039.jpg",
+    "x_pct": 49.8,
+    "y_pct": 32.3,
+    "method": "skin_color",
+    "px": 398,
+    "py": 256
+  },
+  {
+    "image": "rijks_040.jpg",
+    "x_pct": 54.0,
+    "y_pct": 69.5,
+    "method": "saliency",
+    "px": 432,
+    "py": 388
+  },
+  {
+    "image": "rijks_041.jpg",
+    "x_pct": 43.2,
+    "y_pct": 68.4,
+    "method": "skin_color",
+    "px": 346,
+    "py": 492
+  },
+  {
+    "image": "rijks_042.jpg",
+    "x_pct": 49.9,
+    "y_pct": 35.2,
+    "method": "face_haar",
+    "px": 399,
+    "py": 363
+  },
+  {
+    "image": "rijks_043.jpg",
+    "x_pct": 55.8,
+    "y_pct": 49.0,
+    "method": "saliency",
+    "px": 446,
+    "py": 453
+  },
+  {
+    "image": "rijks_044.jpg",
+    "x_pct": 66.8,
+    "y_pct": 51.5,
+    "method": "skin_color",
+    "px": 534,
+    "py": 401
+  },
+  {
+    "image": "rijks_045.jpg",
+    "x_pct": 53.6,
+    "y_pct": 63.7,
+    "method": "face_haar",
+    "px": 429,
+    "py": 659
+  },
+  {
+    "image": "rijks_046.jpg",
+    "x_pct": 39.4,
+    "y_pct": 37.7,
+    "method": "skin_color",
+    "px": 315,
+    "py": 457
+  },
+  {
+    "image": "rijks_047.jpg",
+    "x_pct": 40.8,
+    "y_pct": 20.7,
+    "method": "saliency",
+    "px": 326,
+    "py": 124
+  },
+  {
+    "image": "rijks_048.jpg",
+    "x_pct": 51.2,
+    "y_pct": 56.9,
+    "method": "skin_color",
+    "px": 409,
+    "py": 430
+  },
+  {
+    "image": "rijks_049.jpg",
+    "x_pct": 60.0,
+    "y_pct": 25.0,
+    "method": "face_haar",
+    "px": 480,
+    "py": 208
+  },
+  {
+    "image": "rijks_050.jpg",
+    "x_pct": 59.6,
+    "y_pct": 38.8,
+    "method": "face_haar",
+    "px": 476,
+    "py": 372
+  },
+  {
+    "image": "rijks_051.jpg",
+    "x_pct": 46.4,
+    "y_pct": 56.2,
+    "method": "face_haar",
+    "px": 371,
+    "py": 565
+  },
+  {
+    "image": "rijks_052.jpg",
+    "x_pct": 52.8,
+    "y_pct": 40.0,
+    "method": "face_haar",
+    "px": 422,
+    "py": 436
+  },
+  {
+    "image": "rijks_053.jpg",
+    "x_pct": 49.2,
+    "y_pct": 34.5,
+    "method": "saliency",
+    "px": 394,
+    "py": 365
+  },
+  {
+    "image": "rijks_054.jpg",
+    "x_pct": 43.8,
+    "y_pct": 42.9,
+    "method": "skin_color",
+    "px": 350,
+    "py": 354
+  },
+  {
+    "image": "rijks_055.jpg",
+    "x_pct": 51.0,
+    "y_pct": 44.0,
+    "method": "skin_color",
+    "px": 408,
+    "py": 298
+  },
+  {
+    "image": "rijks_056.jpg",
+    "x_pct": 54.5,
+    "y_pct": 65.4,
+    "method": "skin_color",
+    "px": 436,
+    "py": 390
+  },
+  {
+    "image": "rijks_057.jpg",
+    "x_pct": 59.9,
+    "y_pct": 33.9,
+    "method": "face_haar",
+    "px": 479,
+    "py": 344
+  },
+  {
+    "image": "rijks_058.jpg",
+    "x_pct": 60.0,
+    "y_pct": 58.7,
+    "method": "face_haar",
+    "px": 480,
+    "py": 600
+  },
+  {
+    "image": "rijks_059.jpg",
+    "x_pct": 40.4,
+    "y_pct": 49.4,
+    "method": "skin_color",
+    "px": 323,
+    "py": 404
+  },
+  {
+    "image": "rijks_060.jpg",
+    "x_pct": 45.5,
+    "y_pct": 13.7,
+    "method": "face_haar",
+    "px": 364,
+    "py": 177
+  },
+  {
+    "image": "rijks_061.jpg",
+    "x_pct": 53.2,
+    "y_pct": 41.4,
+    "method": "skin_color",
+    "px": 426,
+    "py": 286
+  },
+  {
+    "image": "rijks_062.jpg",
+    "x_pct": 50.5,
+    "y_pct": 36.7,
+    "method": "skin_color",
+    "px": 404,
+    "py": 286
+  },
+  {
+    "image": "rijks_063.jpg",
+    "x_pct": 36.2,
+    "y_pct": 30.3,
+    "method": "face_haar",
+    "px": 290,
+    "py": 235
+  },
+  {
+    "image": "rijks_064.jpg",
+    "x_pct": 46.6,
+    "y_pct": 35.5,
+    "method": "face_haar",
+    "px": 373,
+    "py": 371
+  },
+  {
+    "image": "rijks_065.jpg",
+    "x_pct": 32.5,
+    "y_pct": 15.1,
+    "method": "skin_color",
+    "px": 260,
+    "py": 107
+  },
+  {
+    "image": "rijks_066.jpg",
+    "x_pct": 48.0,
+    "y_pct": 41.3,
+    "method": "skin_color",
+    "px": 384,
+    "py": 245
+  },
+  {
+    "image": "rijks_067.jpg",
+    "x_pct": 54.2,
+    "y_pct": 47.9,
+    "method": "face_haar",
+    "px": 434,
+    "py": 374
+  },
+  {
+    "image": "rijks_068.jpg",
+    "x_pct": 45.5,
+    "y_pct": 72.5,
+    "method": "skin_color",
+    "px": 364,
+    "py": 681
+  },
+  {
+    "image": "rijks_069.jpg",
+    "x_pct": 46.8,
+    "y_pct": 45.2,
+    "method": "saliency",
+    "px": 374,
+    "py": 282
+  },
+  {
+    "image": "rijks_070.jpg",
+    "x_pct": 81.5,
+    "y_pct": 19.5,
+    "method": "skin_color",
+    "px": 652,
+    "py": 148
+  },
+  {
+    "image": "rijks_071.jpg",
+    "x_pct": 42.8,
+    "y_pct": 36.9,
+    "method": "skin_color",
+    "px": 342,
+    "py": 327
+  },
+  {
+    "image": "rijks_072.jpg",
+    "x_pct": 65.5,
+    "y_pct": 48.9,
+    "method": "skin_color",
+    "px": 524,
+    "py": 344
+  },
+  {
+    "image": "rijks_073.jpg",
+    "x_pct": 48.8,
+    "y_pct": 52.7,
+    "method": "skin_color",
+    "px": 390,
+    "py": 414
+  },
+  {
+    "image": "rijks_074.jpg",
+    "x_pct": 61.9,
+    "y_pct": 34.4,
+    "method": "face_haar",
+    "px": 495,
+    "py": 367
+  },
+  {
+    "image": "rijks_075.jpg",
+    "x_pct": 57.5,
+    "y_pct": 16.9,
+    "method": "saliency",
+    "px": 459,
+    "py": 93
+  },
+  {
+    "image": "rijks_076.jpg",
+    "x_pct": 55.0,
+    "y_pct": 58.1,
+    "method": "saliency",
+    "px": 440,
+    "py": 364
+  },
+  {
+    "image": "rijks_077.jpg",
+    "x_pct": 51.2,
+    "y_pct": 56.0,
+    "method": "saliency",
+    "px": 409,
+    "py": 404
+  },
+  {
+    "image": "rijks_078.jpg",
+    "x_pct": 23.2,
+    "y_pct": 26.7,
+    "method": "face_haar",
+    "px": 186,
+    "py": 269
+  },
+  {
+    "image": "rijks_079.jpg",
+    "x_pct": 49.2,
+    "y_pct": 26.0,
+    "method": "face_haar",
+    "px": 394,
+    "py": 244
+  },
+  {
+    "image": "rijks_080.jpg",
+    "x_pct": 43.5,
+    "y_pct": 27.9,
+    "method": "skin_color",
+    "px": 348,
+    "py": 218
+  },
+  {
+    "image": "rijks_081.jpg",
+    "x_pct": 35.1,
+    "y_pct": 22.0,
+    "method": "face_haar",
+    "px": 281,
+    "py": 208
+  },
+  {
+    "image": "rijks_082.jpg",
+    "x_pct": 61.9,
+    "y_pct": 50.5,
+    "method": "skin_color",
+    "px": 495,
+    "py": 457
+  },
+  {
+    "image": "rijks_083.jpg",
+    "x_pct": 30.0,
+    "y_pct": 38.0,
+    "method": "skin_color",
+    "px": 240,
+    "py": 302
+  },
+  {
+    "image": "rijks_084.jpg",
+    "x_pct": 42.0,
+    "y_pct": 31.5,
+    "method": "upperbody",
+    "px": 336,
+    "py": 164
+  },
+  {
+    "image": "rijks_085.jpg",
+    "x_pct": 43.5,
+    "y_pct": 54.2,
+    "method": "face_haar",
+    "px": 348,
+    "py": 300
+  },
+  {
+    "image": "rijks_086.jpg",
+    "x_pct": 20.8,
+    "y_pct": 76.0,
+    "method": "skin_color",
+    "px": 166,
+    "py": 338
+  },
+  {
+    "image": "rijks_087.jpg",
+    "x_pct": 58.4,
+    "y_pct": 61.4,
+    "method": "face_haar",
+    "px": 467,
+    "py": 532
+  },
+  {
+    "image": "rijks_088.jpg",
+    "x_pct": 43.8,
+    "y_pct": 33.9,
+    "method": "face_haar",
+    "px": 350,
+    "py": 313
+  },
+  {
+    "image": "rijks_089.jpg",
+    "x_pct": 19.5,
+    "y_pct": 71.5,
+    "method": "skin_color",
+    "px": 156,
+    "py": 667
+  },
+  {
+    "image": "rijks_090.jpg",
+    "x_pct": 49.5,
+    "y_pct": 41.0,
+    "method": "saliency",
+    "px": 396,
+    "py": 361
+  },
+  {
+    "image": "rijks_091.jpg",
+    "x_pct": 86.8,
+    "y_pct": 10.9,
+    "method": "face_haar",
+    "px": 694,
+    "py": 102
+  },
+  {
+    "image": "rijks_092.jpg",
+    "x_pct": 58.0,
+    "y_pct": 63.3,
+    "method": "skin_color",
+    "px": 463,
+    "py": 418
+  },
+  {
+    "image": "rijks_093.jpg",
+    "x_pct": 55.1,
+    "y_pct": 52.7,
+    "method": "face_haar",
+    "px": 441,
+    "py": 551
+  },
+  {
+    "image": "rijks_094.jpg",
+    "x_pct": 36.8,
+    "y_pct": 52.8,
+    "method": "skin_color",
+    "px": 294,
+    "py": 412
+  },
+  {
+    "image": "rijks_095.jpg",
+    "x_pct": 52.0,
+    "y_pct": 62.2,
+    "method": "saliency",
+    "px": 416,
+    "py": 390
+  },
+  {
+    "image": "rijks_096.jpg",
+    "x_pct": 55.0,
+    "y_pct": 78.7,
+    "method": "saliency",
+    "px": 440,
+    "py": 465
+  },
+  {
+    "image": "rijks_097.jpg",
+    "x_pct": 44.8,
+    "y_pct": 41.4,
+    "method": "face_haar",
+    "px": 358,
+    "py": 391
+  },
+  {
+    "image": "rijks_098.jpg",
+    "x_pct": 46.9,
+    "y_pct": 57.2,
+    "method": "face_haar",
+    "px": 375,
+    "py": 561
+  },
+  {
+    "image": "rijks_099.jpg",
+    "x_pct": 49.0,
+    "y_pct": 41.2,
+    "method": "skin_color",
+    "px": 392,
+    "py": 326
+  }
+]
