@@ -69,5 +69,4 @@ detector.visualize("path/to/image.jpg", result, output_path="overlay.jpg")
 - Signals are combined via a weighted blend, then refined with **median-of-peaks consensus fusion** — the peak of each map is taken and the median position pulls the final result toward agreement, which is robust to a single outlier (e.g. a false-positive face detection).
 - A **center-bias prior** (Gaussian weighted toward upper-center plus rule-of-thirds points) and 15% border suppression reflect the tendency of focal points in art to sit centrally.
 
-See [SUMMARY.md](SUMMARY.md) for the full research writeup, algorithm history, and benchmark results.
 
